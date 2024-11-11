@@ -1,5 +1,7 @@
 import Contact from "@/components/contact"
 
+
+
 function Contactpage(){
     return(
         <main>
