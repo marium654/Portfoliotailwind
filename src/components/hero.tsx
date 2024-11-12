@@ -9,7 +9,7 @@ function Hero(){
                <div className="header-boxes-con">
                  {/* left side */}
                  <div>
-                 <Image src={"/images/marium.jfif"} 
+                 <Image src={"/images/marium.jpg"} 
                  width={200}
                  height={200}
                  className="header-image"
